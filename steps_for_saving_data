@@ -1,0 +1,6 @@
+user fill form 
+    user submit the form  
+        data recieved at the server
+            connection to db is opened
+                data inssertion
+                    connection to db iss closed

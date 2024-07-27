@@ -1,4 +1,5 @@
 <?php
+//lsit all users in db
 
 //open conn
 $start_conn = mysqli_connect("localhost", "root", "", "blog" );
